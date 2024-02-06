@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chetandanam
 - 👀 I’m interested in Cybersecurity and Ethical hacking and Bug bounting
-- 🌱 I’m currently learning Linux,Kali linux, Cybersecurity and it's tools
+- 🌱 I’m currently learning Python, Linux,Kali linux, Cybersecurity and it's tools
 - 💞️ I’m looking to collaborate on Internships, project works
 - 📫 How to reach me @Linkdin chetan danam
 - 😄 Pronouns: He/Him
